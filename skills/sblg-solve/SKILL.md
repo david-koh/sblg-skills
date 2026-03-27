@@ -8,7 +8,7 @@ description: >-
   "different approach", "sblg-solve".
 license: MIT
 metadata:
-  author: david-koh
+  author: sblg
   version: "1.0.0"
 ---
 

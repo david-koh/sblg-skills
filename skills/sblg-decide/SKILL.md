@@ -8,7 +8,7 @@ description: >-
   "pros and cons", "sblg-decide".
 license: MIT
 metadata:
-  author: david-koh
+  author: sblg
   version: "1.0.0"
 ---
 
