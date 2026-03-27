@@ -1,0 +1,10 @@
+{
+  "name": "sblg-skills-marketplace",
+  "plugins": [
+    {
+      "name": "sblg-skills",
+      "description": "First-principles thinking skills — decide between options, solve stuck problems, and learn new domains from scratch.",
+      "source": "./"
+    }
+  ]
+}

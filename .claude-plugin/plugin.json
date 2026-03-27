@@ -1,0 +1,10 @@
+{
+  "name": "sblg-skills",
+  "version": "1.0.0",
+  "description": "First-principles thinking skills — decide, solve, and learn using expert panels, atomic decomposition, cross-domain mapping, and transfer learning.",
+  "skills": [
+    "./skills/sblg-decide",
+    "./skills/sblg-solve",
+    "./skills/sblg-learn"
+  ]
+}
