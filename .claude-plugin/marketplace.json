@@ -1,10 +1,19 @@
 {
-  "name": "sblg-skills-marketplace",
+  "name": "sblg-skills",
+  "metadata": {
+    "description": "First-principles thinking & AI growth pipeline skills for solo builders"
+  },
+  "owner": {
+    "name": "SBLG",
+    "url": "https://github.com/david-koh/sblg-skills"
+  },
   "plugins": [
     {
-      "name": "sblg-skills",
-      "description": "First-principles thinking skills — decide between options, solve stuck problems, and learn new domains from scratch.",
-      "source": "./"
+      "name": "sblg-growth",
+      "description": "AI-powered marketing & growth hacking pipeline — brand strategy, SEO traffic hijacking, OSMU content factory, asset briefs, lead magnets, A/B testing, performance ads, and autonomous growth engine.",
+      "version": "1.0.0",
+      "source": "./skills/sblg-growth",
+      "category": "productivity"
     }
   ]
 }
